@@ -1,2 +1,1 @@
-This repository will contain the relevant code used for my thesis, as well as the three synthetic datasets that were generated in the process. I am working on cleaning up the code
-a bit and selecting the relevant parts to avoid redundancy. They will be uploaded in the next couple of days. 
+This repository will contain the relevant code used for my thesis, as well as the three synthetic datasets that were generated in the process. The files that are already here are obsolete. I am working on cleaning up the most recent version of the code and selecting the relevant parts to avoid redundancy. They will be uploaded in the next couple of days. 
