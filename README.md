@@ -8,6 +8,10 @@ The research explores whether LLMs mitigate or amplify bias in hiring decisions
 
 This repository contains the following files
 
+### Thesis
+
+* `AI-Based Hiring LLMs and Tradicional AI_AM.pdf`
+
 ### Initial versions of code used in the bias evaluations
 
 * `bias_eval_BERT_ethnicity.ipynb`
