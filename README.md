@@ -4,6 +4,12 @@ This repository corresponds to the Master's thesis in Artificial Intelligence by
 
 The research explores whether LLMs mitigate or amplify bias in hiring decisions
 
+**⚠️ Note on Code Quality**
+
+Please note that this code was developed as part of a thesis project and, due to time constraints, has not undergone extensive optimization or formal quality checks. While it serves the primary purpose of supporting the research findings, it may not meet industry standards in terms of performance, maintainability, security or robustness.
+
+Users are welcome to use and explore the code, but we recommend careful consideration and further testing before applying it in any production environment. Contributions for improvements or optimizations are also encouraged.
+
 ## Files
 
 This repository contains the following files
